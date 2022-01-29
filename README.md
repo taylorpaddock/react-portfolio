@@ -12,6 +12,8 @@ To install please clone this repository from GitHub to your local terminal.
 
 In your integrated terminal, run 'npm i' and then 'npm start'
 
+Deployed application: https://taylorpaddock.github.io/react-portfolio/
+
 ![team profile screenshot](./src/images/react-portfolio.png)
 
 ## Credits
