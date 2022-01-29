@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.273099b2.css",
+    "main.js": "/react-portfolio/static/js/main.4b5519bf.js",
+    "static/media/nfl-dashboard.jpg": "/react-portfolio/static/media/nfl-dashboard.a3c0be87ebb975264abc.jpg",
+    "static/media/profilepicture.png": "/react-portfolio/static/media/profilepicture.2c7af1b0f4f94c2c7565.png",
+    "static/media/music-trivia-logo-v1.png": "/react-portfolio/static/media/music-trivia-logo-v1.cadb9141ad14884c2cb4.png",
+    "static/media/music-trivia-logo-v2.png": "/react-portfolio/static/media/music-trivia-logo-v2.31ac6287c00eac19db54.png",
+    "static/media/workdayplanner.jpg": "/react-portfolio/static/media/workdayplanner.a67cd3ab69aadcb9c5d4.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.7efa8ee532e8f11354c1.jpg",
+    "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.f2583d31029853271793.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.273099b2.css.map": "/react-portfolio/static/css/main.273099b2.css.map",
+    "main.4b5519bf.js.map": "/react-portfolio/static/js/main.4b5519bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273099b2.css",
+    "static/js/main.4b5519bf.js"
+  ]
+}
