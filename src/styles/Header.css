@@ -1,12 +1,25 @@
 .header {
-  background: #f9b713;
-  height: 200px;
+  background: #3b846f;
+  display: flex;
 }
 
 .header h1 {
   margin: 0;
-  padding-top: 75px;
+  padding-top: 25px;
   text-align: center;
   color: white;
   font-size: 3rem;
+}
+
+.header-left {
+  flex: 1;
+  color: white;
+}
+
+.header-right {
+  flex: 1;
+}
+
+.header-left-wrapper {
+  padding: 10px;
 }

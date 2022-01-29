@@ -1,13 +1,18 @@
-import React from 'react';
-// Here we are importing a CSS file as a dependency
-import '../styles/Header.css';
+import '../styles/header.css';
+import Navbar from './Navbar';
 
-function Header() {
-  return (
-    <header className="header">
-      <h1>Home</h1>
-    </header>
-  );
+const Header = () => {
+    return (
+        <div className='header'>
+            <div className='header-left'>
+                <div className='header-left-wrapper'>
+                    <h1 className='header-name'>Taylor Paddock</h1>
+                </div>
+                <div className='header-right'> {<Navbar />} </div>
+            </div>
+            
+        </div>
+    )
 }
 
 export default Header;
